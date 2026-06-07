@@ -2,6 +2,6 @@ def hello():
     """This is a simple function that prints 'hello' to the console."""
     return "hello"
 
-print(hello())
+hello()
 
 
