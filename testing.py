@@ -1,6 +1,9 @@
+"""Simple module demonstrating a hello function."""
+
+
 def hello():
-    """This is a simple function that prints 'hello' to the console."""
+    """Return a hello message."""
     return "hello"
 
 
-hello()
+print(hello())
